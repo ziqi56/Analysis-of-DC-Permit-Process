@@ -12,8 +12,4 @@ The codes in this repo are directed towards analyzing the DCRA permit process. T
 
 Team Memebers:
 
-Jean Landry Binam Keyanfe
-
-Yining Li
-
-Neha Tiwari
+Jean Landry Binam Keyanfe / Yining Li / Neha Tiwari
